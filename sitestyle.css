@@ -7,7 +7,7 @@ div.day-box.prep{
         font-style: normal;
         }
         
-        div.day-box.prep{
+        div.day-box.PREP{
             float:left;
             clear:left;
             border-style: solid;
@@ -16,7 +16,7 @@ div.day-box.prep{
             padding: 5px;
             margin-right: 10px;
 }
-div.day-box.current{
+div.day-box.CURRENT{
             float:left;
             border-style: solid;
             border-width: 5px;
@@ -24,7 +24,7 @@ div.day-box.current{
             padding: 5px;
             margin-right: 10px;
 }
-div.day-box.completed{
+div.day-box.COMPLETED{
             float:bottom;
             border-style: solid;
             border-width: 5px;
