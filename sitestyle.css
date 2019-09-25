@@ -9,6 +9,7 @@
         margin-top: 10px;
         
         
+<<<<<<< HEAD
         }
     
 
@@ -18,6 +19,9 @@ color:mediumvioletred
     
 }
         div.day-box.prep{
+=======
+        div.day-box.PREP{
+>>>>>>> 01e041cdc51655ef1d7216847c085c74982a0088
             float:left;
             clear:left;
             border-style: solid;
@@ -27,7 +31,7 @@ color:mediumvioletred
             margin-right: 10px;
             height:inherit;
 }
-div.day-box.current{
+div.day-box.CURRENT{
             float:left;
             border-style: solid;
             border-width: 5px;
@@ -36,7 +40,7 @@ div.day-box.current{
             margin-right:;
             height:inherit;
 }
-div.day-box.completed{
+div.day-box.COMPLETED{
             float:bottom;
             border-style: solid;
             border-width: 5px;
