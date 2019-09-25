@@ -1,12 +1,22 @@
-div.day-box.prep{
-}
+
+
     div{
         background-color: maroon;
         color:lightblue;
         font-size: 25px;
-        font-style: normal;
-        }
+        font-family: 'Fira Sans', sans-serif;
+        margin-bottom:10px;
+        margin-top: 10px;
         
+        
+        }
+    
+
+div.day{
+color:mediumvioletred
+    
+    
+}
         div.day-box.prep{
             float:left;
             clear:left;
@@ -15,6 +25,7 @@ div.day-box.prep{
             border-color:cadetblue;
             padding: 5px;
             margin-right: 10px;
+            height:inherit;
 }
 div.day-box.current{
             float:left;
@@ -22,7 +33,8 @@ div.day-box.current{
             border-width: 5px;
             border-color:cadetblue;
             padding: 5px;
-            margin-right: 10px;
+            margin-right:;
+            height:inherit;
 }
 div.day-box.completed{
             float:bottom;
@@ -39,6 +51,35 @@ body{
 h1{
     color:cadetblue;
     font-size: 65px;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    background-image: url("https://www.flickr.com/photos/davedugdale/4959660085");
     
 }
+head{
+    float:right;
+    a { color: cadetblue;} /* css link color */
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
